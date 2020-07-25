@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\LordRah\\.platformio\\penv\\Scripts\\python.exe",
+    "files.associations": {
+        "cstdlib": "c"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Esp8266 HX8357 Driver",
+    "version": "1.0.0",
+    "description": "Use an Arduino Mega 2560 to Flash a slave Esp8266 and drive a HX8357 LCD by the slave Esp8266",
+    "keywords": "ESP8266, HX8357, Arduino, Master, Slave,",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/username/hello-world.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Robert Valentine",
+        "email": "paraboliclabs@gmail.com",
+        "url": "https://www.paraboliclabs.tech"
+      }
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "dependencies": {
+        "Adafruit GFX Library": "",
+        "Adafruit BusIO": "",
+        "SPI": "",
+        "Wire": ""
+    },
+    "frameworks": "arduino, HX8357",
+    "platforms": "espressif8266"
+  }
